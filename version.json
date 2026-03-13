@@ -1,0 +1,9 @@
+{
+  "version": "v1.3.6",
+  "versionCode": 10,
+  "date": "2026-03-13T05:49:32.168Z",
+  "changelog": "Versión segura probada — rollback automático",
+  "apk_url": "https://github.com/actualizarcabel2-prog/suggy-client-safe/releases/download/v1.3.6/SuggyClient-safe.apk",
+  "is_safe": true,
+  "source_repo": "suggy-client-releases"
+}
